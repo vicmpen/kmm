@@ -1,0 +1,16 @@
+PODS:
+  - testConfShared (1.0)
+
+DEPENDENCIES:
+  - testConfShared (from `../testConfShared`)
+
+EXTERNAL SOURCES:
+  testConfShared:
+    :path: "../testConfShared"
+
+SPEC CHECKSUMS:
+  testConfShared: 23a90913cc4ea006f9143963364a6319702ea3b1
+
+PODFILE CHECKSUM: 0cfab20090020c86ec506b798a8b06fb48cc4816
+
+COCOAPODS: 1.9.1

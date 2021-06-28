@@ -1,0 +1,5 @@
+target 'iosTestConf' do
+  use_frameworks!
+  platform :ios, '14.1'
+  pod 'testConfShared', :path => '../testConfShared'
+end
